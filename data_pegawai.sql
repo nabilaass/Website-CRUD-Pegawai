@@ -64,8 +64,7 @@ CREATE TABLE `tb_pengguna` (
 --
 
 INSERT INTO `tb_pengguna` (`id_pengguna`, `nama_pengguna`, `username`, `password`, `level`) VALUES
-(1, 'Nabila Asshafa Putri', 'admin', 'admin', 'Administrator'),
-(4, 'Panca Wibawa', 'Sekretaris', 'Sekretaris', 'Sekretaris');
+(1, 'Nabila Asshafa Putri', 'admin', 'admin', 'Administrator');
 
 -- --------------------------------------------------------
 
